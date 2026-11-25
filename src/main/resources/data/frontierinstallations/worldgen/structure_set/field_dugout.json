@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "frontierinstallations:field_dugout",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 8,
+    "separation": 3,
+    "salt": 710021,
+    "spread_type": "linear"
+  }
+}
